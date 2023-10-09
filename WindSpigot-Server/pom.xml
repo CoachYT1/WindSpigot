@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-all</artifactId>
-			<version>4.1.68.Final</version>
+			<version>4.1.99.Final</version>
 		</dependency>
 
 		<dependency>
@@ -172,8 +172,8 @@
 
 	<repositories>
 		<repository>
-			<id>elmakers-repo</id>
-			<url>https://maven.elmakers.com/repository/</url>
+			<id>anfanik-repo</id>
+			<url>https://repository.anfanik.me/public/</url>
 		</repository>
 		<repository>
 			<id>velocity-repo</id>
